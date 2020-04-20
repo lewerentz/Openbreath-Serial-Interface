@@ -1,5 +1,3 @@
-float flow = 500.06;
-
 void setup() {  
   Serial.begin(9600);
 }
